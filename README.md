@@ -17,4 +17,4 @@ Since the first player to move in Hex has a distinct advantage, the pie rule is 
 This rule allows the second player to choose whether to switch positions with the first player after the first player makes the first move.
 
 I have collected this whole information http://en.wikipedia.org/wiki/Hex_(board_game)
-You can read further from the above for details.
+You can read further for details from the above link.
