@@ -1,5 +1,5 @@
-This is simple Hex Board game.
-For unix systems simply run make command.
+This is a simple Hex Board game.
+For unix-like systems simply run make command.
 
 For Windows compile it like:
 g++ -std=c++11 board.cpp -o hex.exe
@@ -7,7 +7,7 @@ g++ -std=c++11 board.cpp -o hex.exe
 Now run hex and enjoy.
 
 About Game:
-Hex is strategy game played on hexagonal grids.
+Hex is a strategy game played on hexagonal grids.
 Each player has an allocated color, Red and Blue or White and Black[1] being conventional.
 Players take turns placing a stone of their color on a single cell within the overall playing board.
 The goal for each player is to form a connected path of their own stones linking the opposing sides of the board marked by their colors, before their opponent connects his or her sides in a similar fashion.
